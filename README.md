@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
+
+![](http://antzuhl.cn:4000/get/@antzuhl.readme)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenfeihuazha)
